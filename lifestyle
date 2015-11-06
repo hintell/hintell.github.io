@@ -1,0 +1,61 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="每天骑着上下班，劳逸结合。 不用去考虑挤车和拥堵的烦恼，每天可以踩点到达。 在车轮上欣赏风景，释放紧绷了一天的心情。 偶尔路况好还可以享受片刻的—— “速度与激情”。 放心，我会注意安全的。" />
+<meta name="keywords" content="hyson,大雄,hysonstudio,大雄之小站,cms,flat file" />
+<meta name="author" content="hyson" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>期望中的生活方式 - 大雄之小站</title>
+<script type=text/javascript src="/media/js/scrolltop.js"></script>
+<script type="text/javascript" src="http://libs.useso.com/js/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://libs.cncdn.cn/fotorama/4.6.4/fotorama.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/photoswipe.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/photoswipe-ui-default.min.js"></script>
+<script type="text/javascript" src="/media/plugins/gallery.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/media/themes/flatsite.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://libs.useso.com/js/font-awesome/4.2.0/css/font-awesome.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://libs.cncdn.cn/fotorama/4.6.4/fotorama.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/photoswipe.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/default-skin/default-skin.css" />
+<link rel="shortcut icon" type="image/png" href="/media/images/icon.png" />
+<link rel="sitemap" type="text/xml" href="/sitemap/page:sitemap.xml" />
+</head>
+<body>
+<div class="page default">
+<div class="header">
+<div class="sitename"><h1><a href="/"><i class="sitename-logo"></i>大雄之小站</a></h1></div>
+<div class="sitename-banner"></div>
+<div class="navigation">
+<ul>
+<li><a class="active" href="/">首页</a></li>
+<li><a href="/notes/">劄記</a></li>
+<li><a href="/wiki/">宝典</a></li>
+<li><a href="/yellow/">Yellow</a></li>
+<li><a href="/about/">关于</a></li>
+</ul>
+</div>
+<div class="navigation-banner"></div>
+</div>
+<div class="content main">
+<h1>这才是个人期望中的生活方式：虽然屌(S)，却屌的有型</h1>
+<p><img src="http://7q5cc3.com1.z0.glb.clouddn.com/cool-cycling.gif-all.h" width="auto" height="auto" alt="酷帅骑行" title="酷帅骑行" class="iqiniu" /></p>
+
+<h2 id="每天骑着-i-class-fa-fa-bicycle-i-上下班-劳逸结合">每天骑着<i class="fa fa-bicycle"></i>上下班，劳逸结合。</h2>
+
+<h3 id="不用去考虑挤车和拥堵的烦恼-每天可以踩点到达">不用去考虑挤车和拥堵的烦恼，每天可以踩点到达。</h3>
+
+<h1>在车轮上欣赏风景，释放紧绷了一天的心情。</h1>
+
+<h3 id="偶尔路况好还可以享受片刻的">偶尔路况好还可以享受片刻的——</h3>
+
+<h1>“速度与激情”。</h1>
+
+<h2 id="放心-我会注意安全的">放心，我会注意安全的。</h2>
+</div>
+<div style="display: none" id="goTopBtn"><i class="fa fa-space-shuttle fa-3x fa-rotate-270"></i></div>
+<script type="text/javascript">goTopEx();</script><div class="footer">
+<a href="/">&copy; 2015 大雄之小站</a>.<a href="/sitemap/" title="网站地图">Sitemap</a>.本站是<a href="http://hyson.tk"> hyson</a>的静态镜像.<i class="fa fa-code"></i>Build 151102.
+</div>
+</div>
+</body>
+</html>
